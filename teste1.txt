@@ -1,1 +1,2 @@
 caso de uso
+implementacao de correção do bug x
