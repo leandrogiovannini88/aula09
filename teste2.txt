@@ -1,7 +1,4 @@
 caso de uso 2
-<<<<<<< Updated upstream
 alterando linha 2
-=======
 
 alterando linha 3
->>>>>>> Stashed changes
